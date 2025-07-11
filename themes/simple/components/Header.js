@@ -13,6 +13,9 @@ export default function Header (props) {
 
   return (
         <header className="text-center justify-between items-center px-6 bg-white h-80 dark:bg-black relative z-10">
+            <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
             <div className="float-none inline-block py-12">
                 <Link href='/'>
                     {/* 可使用一张单图作为logo */}

@@ -29,6 +29,9 @@ class MyDocument extends Document {
                 </Head>
 
                 <body>
+                  <amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-4522670236044605">
+</amp-auto-ads>
                     <Main />
                     <NextScript />
                 </body>
